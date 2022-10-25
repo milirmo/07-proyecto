@@ -1,1 +1,23 @@
-proyecto
+proyecto: sobre michis.
+
+descripción:   estaría destinada hacia personas con gatos, o que quieran adoptar uno 
+por primera vez, y busquen informarse sobre cómo darle lo mejor a su mascota.
+
+objetivo del proyecto: ayudar e informar a personas que tengan un gato de mascota.
+
+secciones:
+sección 1: es el inicio, y  va a dar una intruducción sobre lo que son y de dónde vienen los gatitos. 
+es la más importante, ya que en ella estaran los links para ir a las demás páginas.
+sección 2: ¿por qué adoptar un michi?
+sección 3: mejores productos para tu gato (alimento, entretenimiento, descanso).
+
+recursos utilizados:
+flaticon.com (íconos)
+pixabay.com (imágenes)
+
+
+paleta de colores:
+
+
+
+
