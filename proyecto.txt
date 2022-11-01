@@ -19,6 +19,7 @@ pixabay.com (imágenes)
 paleta de colores:
 6F8496
 C2CFE0
+E3E3E3
 
 
 
