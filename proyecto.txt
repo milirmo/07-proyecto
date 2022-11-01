@@ -1,6 +1,6 @@
 proyecto: sobre michis.
 
-descripción:   estaría destinada hacia personas con gatos, o que quieran adoptar uno 
+descripción: estaría destinada hacia personas con gatos, o que quieran adoptar uno 
 por primera vez, y busquen informarse sobre cómo darle lo mejor a su mascota.
 
 objetivo del proyecto: ayudar e informar a personas que tengan un gato de mascota.
@@ -17,7 +17,8 @@ pixabay.com (imágenes)
 
 
 paleta de colores:
-
+6F8496
+C2CFE0
 
 
 
