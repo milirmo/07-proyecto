@@ -7,31 +7,32 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" 
     rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" 
     crossorigin="anonymous">
-    <title>índice</title>
+    <title>formularios</title>
 </head>
-<body class="bg-dark">
-    <div class="container bg-primary">
-        <div class="row">
-            <div class="col">título</div>
-        </div>
-    </div>
-    <!--el siguiente div se repite las cantidades que sean necesarias-->
-    <div class="container">
-        <div class="row">
-            <div class="col-9 bg-light">img y info</div>
-            <div class="col-3 bg-secondary">links</div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-9 bg-secondary">img y info</div>
-            <div class="col-3 bg-light">publicidad</div>
-        </div>
-    </div>
-    <div class="container bg-primary">
-        <div class="row">
-            <div class="col">pie de página</div>
-        </div>
-    </div>
+<body>
+    <h1>formulario</h1>
+    <form action=""></form>
+    <!--input: entrada e datos-->
+    <label for="apellido">ingrese apellido</label>
+    <input type="text" name="apellido" id="apellido">
+    
+    <!--fecha-->
+    <label for="nacimiento">ingrese fecha de nacimiento</label>
+    <input type="date" name="nacimiento" id="nacimiento" min="0" max="100">
+    
+    <!--numero-->
+    <label for="edad">ingrese edad</label>
+    <input type="number" name="edad" id="edad">
+
+    <!--email-->
+    <label for="email">ingrese email</label>
+    <input type="email" name="email" id="email" value="ejemplo@ejemplo.com">
+
+    <!--clave-->
+    <label for="clave">ingrese clave</label>
+    <input type="password" name="clave" id="clave">
+
+    
+
 </body>
 </html>
