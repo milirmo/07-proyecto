@@ -22,10 +22,5 @@ C2CFE0
 E3E3E3
 000000
 
-fuente de letra:
-header: Anton
-texto: Sanchez
-títulos: Kanit
-
 
 
