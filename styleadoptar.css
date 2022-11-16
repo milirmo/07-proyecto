@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+body {
+     background-color: #C2CFE0 ;
+     font-family: 'Sanchez', serif;
+}
+#header {
+    background-color: #6F8496;
+    font-family: 'Rubik Bubbles', cursive;
+    text-align: center;
+}
+#indice {
+    background-color: #E3E3E3;
+    border: solid 2px;
+}
+#footer {
+    background-color: #E3E3E3;
+    border: solid 2px;
+}
+#subtitulo {
+    font-family: 'Kanit', sans-serif;
+}
